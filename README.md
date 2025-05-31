@@ -52,14 +52,7 @@ This project is a simple HTML file designed to demonstrate the usage of various 
 .
 ├── index.html       # Main HTML file demonstrating all elements
 ├── fromfileimage.png (optional)  # Custom image used in demo
-```
-
----
-
-### 👨‍💻 Author
-
-* \[Your Name Here]
-* GitHub: \[your-github-handle]
+``
 
 ---
 
